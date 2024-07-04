@@ -20,4 +20,4 @@ def is_win(player, opponent):
             return True
         
         
-1:10min 
+1:31min 
